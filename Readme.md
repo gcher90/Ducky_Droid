@@ -7,10 +7,10 @@ Copy inject.bin file to sdcard
 
 ## Usage
 
-Extract "Unlock_Android_Lockscreen.tar.xz" and change directory.
+clone the Ducky-Droid
 ```sh
-tar -xvf Unlock_Android_Lockscreen.tar.xz
-cd Unlock_Android_Lockscreen
+git clone https://github.com/gcher90/Ducky_Droid.git
+cd Ducky_Droid
 ```
 Clone the DuckToolKit Repo:
 
