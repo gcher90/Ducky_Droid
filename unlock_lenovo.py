@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+## Generates ducky script that unlocks Android device lock-screen
+## Tested on: Lenovo A7000 Android 6.0
+## Author: George Cherian
+## Email: gcher90@gmail.com
+
 '''
 Generates ducky script that
 unlocks Lenovo A7000 Android 6.0 lock-screen

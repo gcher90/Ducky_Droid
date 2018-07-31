@@ -1,18 +1,19 @@
-# Unlocks Android Lock screen
+# Brute Force Android Lock screen
 
-Generates ducky script for unlocking Android lock screen
-Convert ducky script to inject.bin file
-Copy inject.bin file to sdcard
-
+Generates ducky script to Brute Force Android lock screen pin.
+Tries all combinations from 0000 to 9999.
+Convert ducky script to inject.bin file.
+Copy inject.bin file to sdcard.
 
 ## Usage
 
-clone the Ducky-Droid
+Clone the Ducky-Droid Repo
+
 ```sh
 git clone https://github.com/gcher90/Ducky_Droid.git
 cd Ducky_Droid
 ```
-Clone the DuckToolKit Repo:
+Clone the DuckToolKit Repo inside the Ducky_Droid Repo:
 
 ```sh
 git clone https://github.com/kevthehermit/DuckToolkit
